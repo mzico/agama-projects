@@ -11,5 +11,16 @@
         "license": "MIT",
         "last_updated": "1677733122991",
         "project_type": "community"
+    },
+    "zico_first": {
+        "projectName": "zico_first",
+        "description": "first project",
+        "type": "community",
+        "author": "mzico",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mzico/agama-projects",
+        "githubUri": "https://github.com/mzico/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1686042671517"
     }
 }
