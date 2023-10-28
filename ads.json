@@ -1,0 +1,26 @@
+{
+    "testing": {
+        "gh_author": "mzico",
+        "gh_repo_path": "agama-projects",
+        "project_name": "testing",
+        "version": "0.0.1",
+        "author": "mzico",
+        "author_website": "https://github.com/mzico/agama-projects",
+        "github_uri": "https://github.com/mzico/agama-projects",
+        "project_description": "Just for test",
+        "license": "MIT",
+        "last_updated": "1677733122991",
+        "project_type": "community"
+    },
+    "zico_first": {
+        "projectName": "zico_first",
+        "description": "first project",
+        "type": "community",
+        "author": "mzico",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mzico/agama-projects",
+        "githubUri": "https://github.com/mzico/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1686042671517"
+    }
+}
